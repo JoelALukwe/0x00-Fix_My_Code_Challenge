@@ -38,6 +38,3 @@ if __name__ == '__main__':
 
     number = int(sys.argv[1])
     fizzbuzz(number)
-```
-
-This version of the code should correctly execute the FizzBuzz logic without any issues.
